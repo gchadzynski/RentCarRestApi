@@ -1,0 +1,14 @@
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\bin\Debug\netcoreapp2.0\Contracts.deps.json
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfo.cs
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\obj\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\obj\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\obj\Debug\netcoreapp2.0\Contracts.csprojAssemblyReference.cache
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\gchadzynski\source\repos\RenCarRestApi\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CopyComplete

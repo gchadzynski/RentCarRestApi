@@ -1,0 +1,16 @@
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\bin\Debug\netcoreapp2.0\LoggerService.deps.json
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\bin\Debug\netcoreapp2.0\LoggerService.dll
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\bin\Debug\netcoreapp2.0\LoggerService.pdb
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.csprojAssemblyReference.cache
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.AssemblyInfo.cs
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.dll
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.pdb
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.csproj.CopyComplete
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\gchadzynski\source\repos\RenCarRestApi\LoggerService\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
