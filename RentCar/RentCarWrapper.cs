@@ -10,6 +10,8 @@ namespace RentCar
     {
         private RentCarContext _repoContext;
         private IUserRepository _owner;
+        private ICarsRepository _cars;
+        private IRentsRepository _rents;
 
         public IUserRepository User
         {
@@ -21,6 +23,32 @@ namespace RentCar
                 }
 
                 return _owner;
+            }
+        }
+
+        public ICarsRepository Cars
+        {
+            get
+            {
+                if (_cars == null)
+                {
+                    _cars = new CarsRepository(_repoContext);
+                }
+
+                return _cars;
+            }
+        }
+
+        public IRentsRepository Rents
+        {
+            get
+            {
+                if (_rents == null)
+                {
+                    _rents = new RentsRepository(_repoContext);
+                }
+
+                return _rents;
             }
         }
 

@@ -51,11 +51,13 @@ namespace RenCarRestApi
 
             app.UseCors("CorsPolicy");
 
+            // Will forward proxy headers to the current request. This will help us during the Linux deployment.
             app.UseForwardedHeaders(new ForwardedHeadersOptions
             {
                 ForwardedHeaders = ForwardedHeaders.All
             });
 
+            // Will point on the index page in the Angular project
             app.Use(async (context, next) =>
             {
                 await next();
@@ -68,6 +70,7 @@ namespace RenCarRestApi
                 }
             });
 
+            // enables using static files for the request. If we don’t set a path to the static files, it will use a wwwroot folder in our solution explorer by default
             app.UseStaticFiles();
 
             app.UseMvc();

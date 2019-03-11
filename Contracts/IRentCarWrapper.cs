@@ -7,5 +7,7 @@ namespace Contracts
     public interface IRentCarWrapper
     {
         IUserRepository User { get; }
+        ICarsRepository Cars { get; }
+        IRentsRepository Rents { get; }
     }
 }
